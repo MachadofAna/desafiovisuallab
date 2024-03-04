@@ -8,7 +8,7 @@ Através deste recurso a Inteligência Artificial descreve o que está presente 
 
 02 - O recurso atrás de algumas imagens de exemplo para que você realize testes do serviço e até mesmo a possibilidade de realizar upload de uma foto sua e ter a descrição, no meu caso adicionei uma foto minha para testes e o serviço me retorna a descrição do que conformidade na imagem >>>>>
 
-Reconhecimento óptico de caracteres
+*Reconhecimento óptico de caracteres*
 
 Através deste recurso a Inteligência Artificial extrai o texto que consegue identificar na imagem, extremamente útil para a digitalização de documentos e notas:
 
